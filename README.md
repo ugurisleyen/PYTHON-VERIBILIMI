@@ -1,3 +1,4 @@
-Merhaba
 
-Kendimi geliştirmek amacıyla Python Pandas kütüphanesinde yapmış olduğum denemeleri, çalışmaları aşama aşama bulabilirsiniz.
+Hello,
+
+You can find my experiments and studies in Python libraries in order to improve myself.
